@@ -321,3 +321,5 @@ For more in-depth details and the latest updates, visit the [smart-cache-cli pac
 Explore more challenges or contribute to this project!
 
 > 🏃 Head to your next challenge [here](https://speedrunstylus.com/challenge/multisig-wallet).
+#   s p e e d r u n - V e n d i n g M a c h i n e  
+ 
